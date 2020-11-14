@@ -1,0 +1,78 @@
+body {
+    background: #bdc3c7;
+}
+
+h1 {
+    color: #9b59b6;
+}
+
+h1:hover {
+    color: blue;
+}
+
+h2 {
+    color: orange;
+}
+
+li {
+    color: blue;
+}
+p {
+    background: yellow;
+} 
+
+input {
+    border: red 3px solid;
+}
+
+.hello {
+    background: white;
+}
+
+#special {
+    border: blue 2px solid;
+}
+
+#special::first-letter {
+    font-size: 100px;
+    color: green;
+  }
+
+div p {
+    font-size: 25px;
+}
+
+input[type=text] {
+    background: gray;
+}
+
+input:checked {
+    margin-left: 50px;
+    background: royalblue;
+}
+
+label {
+    text-transform: uppercase;
+}
+
+a:visited {
+    color: gray;
+}
+
+.upper {
+    text-transform: uppercase;
+}
+
+em {
+    font-style: italic;
+    color: white;
+    font-size: 20px;
+}
+
+.pink p {
+    background: pink;
+}
+
+.selection {
+    border: white 5px solid;
+}
